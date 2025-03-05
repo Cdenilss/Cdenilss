@@ -33,8 +33,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvol
 
 ## 📫 Contato
 
-[![www.linkedin.com/in/carlos-denil](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_perfil/)  
-[![Carlosdenilss@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-denil)  
+[![Carlosdenilss@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Carlosdenilss@gmail.com)
 
 ---
 
