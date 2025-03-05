@@ -21,8 +21,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvol
 
 ## 📊 Estatísticas do GitHub
 
-![Denil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical)
+![Denil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cdenilss&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cdenilss&layout=compact&theme=radical)
 
 ## 💻 Projetos Destacados
 
